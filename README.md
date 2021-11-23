@@ -34,3 +34,4 @@ Inquirer<br>
 SQL<br>
 
 ## Video Demo
+https://youtu.be/kzwIknko14U
