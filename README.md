@@ -1,5 +1,6 @@
 # Employee Tracker
 ## Description
+This is a back end application that in ran in the terminal. The user is prompted with options to add and update employees, roles, and departments. Once the table contains employees as well as details on each employee the user can view the data.
 ## User Story
 ```
 AS A business owner
@@ -27,3 +28,9 @@ WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database 
 ```
 ## Technologies
+JavaScript<br>
+Node.JS<br>
+Inquirer<br>
+SQL<br>
+
+## Video Demo
